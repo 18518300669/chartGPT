@@ -1,0 +1,4 @@
+/                /.netlify/edge-functions/entry    200
+/password        /.netlify/edge-functions/entry    200
+/api/generate    /.netlify/edge-functions/entry    200
+/api/auth        /.netlify/edge-functions/entry    200
